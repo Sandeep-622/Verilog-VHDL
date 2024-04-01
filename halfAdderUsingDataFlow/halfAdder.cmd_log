@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/halfAdderUsingDataFlow/halfAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/halfAdderUsingDataFlow/halfAdder.syr" 

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-01T19:02:01</DateModified>
+  <DateModified>2024-04-01T19:20:43</DateModified>
   <ModuleName>halfAdder</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/halfAdder/iseconfig/halfAdder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/halfAdder/</ImplementationReportsDirectory>
-  <DateInitialized>2024-03-22T08:01:42</DateInitialized>
+  <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/halfAdderUsingDataFlow/iseconfig/halfAdder.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/halfAdderUsingDataFlow</ImplementationReportsDirectory>
+  <DateInitialized>2024-04-01T19:20:43</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>
