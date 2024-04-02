@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Dataflow/fullSubtractor.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Dataflow/fullSubtractor.syr" 

@@ -1,0 +1,23 @@
+ISim log file
+Running: /home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Dataflow/test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Dataflow/test_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+A = 0 | B = 0 | BOR_IN = 0 | DIFF = 0 | BOR_OUT = 0
+A = 0 | B = 0 | BOR_IN = 1 | DIFF = 1 | BOR_OUT = 1
+A = 0 | B = 1 | BOR_IN = 0 | DIFF = 1 | BOR_OUT = 1
+A = 0 | B = 1 | BOR_IN = 1 | DIFF = 0 | BOR_OUT = 1
+A = 1 | B = 0 | BOR_IN = 0 | DIFF = 1 | BOR_OUT = 0
+A = 1 | B = 0 | BOR_IN = 1 | DIFF = 0 | BOR_OUT = 0
+A = 1 | B = 1 | BOR_IN = 0 | DIFF = 0 | BOR_OUT = 0
+A = 1 | B = 1 | BOR_IN = 1 | DIFF = 1 | BOR_OUT = 1
+Stopped at time : 800 ns : File "/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Dataflow/test.v" Line 48
+# exit 0
