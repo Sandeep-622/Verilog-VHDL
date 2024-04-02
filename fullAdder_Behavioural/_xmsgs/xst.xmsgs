@@ -5,7 +5,7 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="HDLCompiler" num="751" delta="new" >"/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.v" Line 28: Redeclaration of ansi port <arg fmt="%s" index="1">sum</arg> is not allowed
+<msg type="warning" file="HDLCompiler" num="751" delta="old" >"/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.v" Line 28: Redeclaration of ansi port <arg fmt="%s" index="1">sum</arg> is not allowed
 </msg>
 
 </messages>

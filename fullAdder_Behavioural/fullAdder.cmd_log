@@ -1,1 +1,2 @@
 xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/fullAdder_Behavioural/fullAdder.syr" 
