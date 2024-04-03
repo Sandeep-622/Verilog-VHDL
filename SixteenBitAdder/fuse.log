@@ -1,0 +1,22 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/sandeep/git_workspace/Verilog-VHDL/SixteenBitAdder/test1_isim_beh.exe -prj /home/sandeep/git_workspace/Verilog-VHDL/SixteenBitAdder/test1_beh.prj work.test1 work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/sandeep/git_workspace/Verilog-VHDL/SixteenBitAdder/sixteenBitAdder.v" into library work
+Analyzing Verilog file "/home/sandeep/git_workspace/Verilog-VHDL/SixteenBitAdder/test1.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 82696 KB
+Fuse CPU Usage: 350 ms
+Compiling module sixteenBitAdder
+Compiling module test1
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable /home/sandeep/git_workspace/Verilog-VHDL/SixteenBitAdder/test1_isim_beh.exe
+Fuse Memory Usage: 2215736 KB
+Fuse CPU Usage: 360 ms
+GCC CPU Usage: 150 ms
