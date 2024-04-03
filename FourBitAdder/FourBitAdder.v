@@ -43,6 +43,4 @@ module fullAdder(
 		sum = (a^b^cin);
 		carry = (a&b)|((a^b)&cin);
 	 end
-
-
-endmodule
+	 endmodule
