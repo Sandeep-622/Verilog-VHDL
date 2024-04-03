@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/FourBitAdder.syr" 
