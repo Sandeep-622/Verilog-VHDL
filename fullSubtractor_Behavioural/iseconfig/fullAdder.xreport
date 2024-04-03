@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-03T02:00:38</DateModified>
+  <DateModified>2024-04-03T06:12:27</DateModified>
   <ModuleName>fullAdder</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Behavioural/iseconfig/fullAdder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Behavioural</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/fullSubtractor_Behavioural/</ImplementationReportsDirectory>
   <DateInitialized>2024-04-03T02:00:38</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
