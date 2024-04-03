@@ -1,0 +1,25 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/test_isim_beh.exe -prj /home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/test_beh.prj work.test work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/fourBitSub.v" into library work
+WARNING:HDLCompiler:751 - "/home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/fourBitSub.v" Line 51: Redeclaration of ansi port sum is not allowed
+Analyzing Verilog file "/home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/test.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/fourBitSub.v" Line 29: Size mismatch in connection of port <cin>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 82724 KB
+Fuse CPU Usage: 330 ms
+Compiling module fullAdder
+Compiling module FourBitAdder
+Compiling module fourBitSub
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 5 Verilog Units
+Built simulation executable /home/sandeep/git_workspace/Verilog-VHDL/fourBitSub_usingFullAdder/test_isim_beh.exe
+Fuse Memory Usage: 2215780 KB
+Fuse CPU Usage: 350 ms
+GCC CPU Usage: 210 ms
