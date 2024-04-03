@@ -25,9 +25,9 @@
 module test;
 
 	// Inputs
-	reg [3:0] a;
-	reg [3:0] b;
-	reg cin;
+	reg [3:0] a = 4'b0000;
+	reg [3:0] b = 4'b0000;
+	reg cin = 0;
 
 	// Outputs
 	wire [4:0] sum;
@@ -40,39 +40,9 @@ module test;
 		.sum(sum)
 	);
 
-	initial begin
-		// Initialize Inputs
-		a = 0;
-		b = 0;
-		cin = 0;
-
-		// Wait 100 ns for global reset to finish
-		#100;
-		// Initialize Inputs
-		a = 10;
-		b = 2;
-		cin = 1;
-
-		// Wait 100 ns for global reset to finish
-		#100;
-		// Initialize Inputs
-		a = 8;
-		b = 3;
-		cin = 1;
-
-		// Wait 100 ns for global reset to finish
-		#100;
-		// Initialize Inputs
-		a = 6;
-		b = 7;
-		cin = 0;
-
-		// Wait 100 ns for global reset to finish
-		#100;
-        
-		// Add stimulus here
-
-	end
+	always #20 a = a+1;
+	always #40 b = b+1;
+	always #10 cin = ~cin;
       
 endmodule
 

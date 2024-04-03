@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-03T06:38:16</DateModified>
+  <DateModified>2024-04-03T06:58:16</DateModified>
   <ModuleName>FourBitAdder</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/iseconfig/FourBitAdder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/FourBitAdder/</ImplementationReportsDirectory>
   <DateInitialized>2024-04-03T06:38:16</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
