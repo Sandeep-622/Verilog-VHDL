@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-04T06:36:17</DateModified>
+  <DateModified>2024-04-04T17:24:09</DateModified>
   <ModuleName>sequenceDetector</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/sequenceDetector/iseconfig/sequenceDetector.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/sequenceDetector</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/sequenceDetector/</ImplementationReportsDirectory>
   <DateInitialized>2024-04-04T06:36:17</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
