@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/Mu_2x1/mux_2_1_IfElse.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/Mu_2x1/mux_2_1_IfElse.syr" 
