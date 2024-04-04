@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2_ifElse.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2_ifElse.syr" 

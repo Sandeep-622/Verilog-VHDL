@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x2/demux_1x2.syr" 
