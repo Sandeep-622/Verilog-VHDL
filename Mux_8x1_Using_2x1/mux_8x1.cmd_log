@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/Mux_8x1_Using_2x1/mux_8x1.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/Mux_8x1_Using_2x1/mux_8x1.syr" 
