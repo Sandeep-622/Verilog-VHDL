@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.syr" 
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/D_FlipFlop/DFlipFlop.syr" 
