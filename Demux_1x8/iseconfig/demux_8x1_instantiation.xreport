@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-04-05T02:35:03</DateModified>
+  <DateModified>2024-04-06T05:18:57</DateModified>
   <ModuleName>demux_8x1_instantiation</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x8/iseconfig/demux_8x1_instantiation.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x8</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/sandeep/git_workspace/Verilog-VHDL/Demux_1x8/</ImplementationReportsDirectory>
   <DateInitialized>2024-04-05T02:35:03</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

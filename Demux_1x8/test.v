@@ -27,6 +27,8 @@ module test;
 	// Inputs
 	reg in;
 	reg [2:0] s;
+	
+	
 
 	// Outputs
 	wire [7:0] out;
