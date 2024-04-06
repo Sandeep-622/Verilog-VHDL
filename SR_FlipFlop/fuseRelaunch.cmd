@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/sandeep/git_workspace/Verilog-VHDL/SR_FlipFlop/test_isim_beh.exe" -prj "/home/sandeep/git_workspace/Verilog-VHDL/SR_FlipFlop/test_beh.prj" "work.test" "work.glbl" 
