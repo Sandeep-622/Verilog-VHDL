@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/sandeep/git_workspace/Verilog-VHDL/SR_Latch/SRLatch.xst" -ofn "/home/sandeep/git_workspace/Verilog-VHDL/SR_Latch/SRLatch.syr" 
